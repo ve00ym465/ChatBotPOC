@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Audio Recorder</string>
+    <string name="start">Start Recording</string>
+    <string name="stop">Stop Recording</string>
+    <string name="idle">Idle – tap “Start”</string>
+    <string name="recording">Recording… tap “Stop”</string>
+    <string name="saved">Saved: %s</string><string name="converting">converting</string>
+</resources>
